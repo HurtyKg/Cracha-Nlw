@@ -2,7 +2,7 @@
 Cracha Virtual
 
 
-![preview img](/imgages/cracha.png)
+![preview img](/images/cracha.png)
 
 
 ## Participantes
